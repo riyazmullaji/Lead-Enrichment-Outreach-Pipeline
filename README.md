@@ -32,7 +32,7 @@ These tasks often involve switching between research tools, enrichment providers
 
 ## 3. Solution
 
-I built a multi-stage enrichment pipeline in Clay that combines AI-based research with rule-based workflow automation.
+Multi-stage enrichment pipeline in Clay that combines AI-based research with rule-based workflow automation.
 
 The pipeline follows four main principles:
 
